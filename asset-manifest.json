@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/resort_react/static/css/main.0368bdc9.chunk.css",
-    "main.js": "/resort_react/static/js/main.950d5de7.chunk.js",
-    "main.js.map": "/resort_react/static/js/main.950d5de7.chunk.js.map",
+    "main.js": "/resort_react/static/js/main.ff5b974c.chunk.js",
+    "main.js.map": "/resort_react/static/js/main.ff5b974c.chunk.js.map",
     "runtime-main.js": "/resort_react/static/js/runtime-main.67251339.js",
     "runtime-main.js.map": "/resort_react/static/js/runtime-main.67251339.js.map",
     "static/js/2.82059e36.chunk.js": "/resort_react/static/js/2.82059e36.chunk.js",
     "static/js/2.82059e36.chunk.js.map": "/resort_react/static/js/2.82059e36.chunk.js.map",
     "index.html": "/resort_react/index.html",
-    "precache-manifest.da300350633c1226183a21dd3028bbc7.js": "/resort_react/precache-manifest.da300350633c1226183a21dd3028bbc7.js",
+    "precache-manifest.6869e797e8911226379d8d4b7de3ac21.js": "/resort_react/precache-manifest.6869e797e8911226379d8d4b7de3ac21.js",
     "service-worker.js": "/resort_react/service-worker.js",
     "static/css/main.0368bdc9.chunk.css.map": "/resort_react/static/css/main.0368bdc9.chunk.css.map",
     "static/js/2.82059e36.chunk.js.LICENSE.txt": "/resort_react/static/js/2.82059e36.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.67251339.js",
     "static/js/2.82059e36.chunk.js",
     "static/css/main.0368bdc9.chunk.css",
-    "static/js/main.950d5de7.chunk.js"
+    "static/js/main.ff5b974c.chunk.js"
   ]
 }
