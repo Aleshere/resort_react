@@ -15,11 +15,14 @@
     "styled-components": "^5.1.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "npm run build&&gh-pages -d build", 
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://aleshere.github.io/resort_react",
   "eslintConfig": {
     "extends": "react-app"
   },
