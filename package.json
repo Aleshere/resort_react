@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://aleshere.github.io/resort_react",
+  "homepage": "https://aleshere.github.io/resort_react/",
   "eslintConfig": {
     "extends": "react-app"
   },

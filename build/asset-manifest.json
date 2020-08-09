@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/resort_react/static/css/main.0368bdc9.chunk.css",
+    "main.js": "/resort_react/static/js/main.ff5b974c.chunk.js",
+    "main.js.map": "/resort_react/static/js/main.ff5b974c.chunk.js.map",
+    "runtime-main.js": "/resort_react/static/js/runtime-main.67251339.js",
+    "runtime-main.js.map": "/resort_react/static/js/runtime-main.67251339.js.map",
+    "static/js/2.82059e36.chunk.js": "/resort_react/static/js/2.82059e36.chunk.js",
+    "static/js/2.82059e36.chunk.js.map": "/resort_react/static/js/2.82059e36.chunk.js.map",
+    "index.html": "/resort_react/index.html",
+    "precache-manifest.6869e797e8911226379d8d4b7de3ac21.js": "/resort_react/precache-manifest.6869e797e8911226379d8d4b7de3ac21.js",
+    "service-worker.js": "/resort_react/service-worker.js",
+    "static/css/main.0368bdc9.chunk.css.map": "/resort_react/static/css/main.0368bdc9.chunk.css.map",
+    "static/js/2.82059e36.chunk.js.LICENSE.txt": "/resort_react/static/js/2.82059e36.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/resort_react/static/media/room-2.052c7681.jpeg",
+    "static/media/loading-arrow.gif": "/resort_react/static/media/loading-arrow.e9ea7394.gif",
+    "static/media/logo.svg": "/resort_react/static/media/logo.9f0cccc1.svg",
+    "static/media/room-1.jpeg": "/resort_react/static/media/room-1.e928a5c4.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67251339.js",
+    "static/js/2.82059e36.chunk.js",
+    "static/css/main.0368bdc9.chunk.css",
+    "static/js/main.ff5b974c.chunk.js"
+  ]
+}
